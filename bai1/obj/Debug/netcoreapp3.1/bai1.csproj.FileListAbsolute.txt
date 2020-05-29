@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.exe
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.deps.json
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.json
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.dll
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\bai1.pdb
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.csproj.CopyComplete
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.dll
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.pdb
+C:\Users\Admin\source\repos\BT_AnhKhoa\bai1\obj\Debug\netcoreapp3.1\bai1.genruntimeconfig.cache
