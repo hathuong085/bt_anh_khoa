@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdtU4K7msx/lkeMS8VjvX4juq/VUQiWNDg0MBQVqd5406BsX4c/Z+PizRfu/tXTa8XFeMUMV7OQoTo+zydc3+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BT_AnhKhoa\\bai2\\bai2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
